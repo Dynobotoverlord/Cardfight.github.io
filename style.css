@@ -1,0 +1,27 @@
+#Nirvana{
+    position: absolute;
+    height: 510px;
+    width: 350px;
+    z-index: 4;
+    left:500px
+}
+#Reiyu{
+    position: absolute;
+    z-index: 4;
+    left: 500px;
+}
+#Rino{
+    position: absolute;
+    z-index: 4;
+    left: 500px;
+}
+
+#Egg{
+    position: absolute;
+    z-index: 4;
+    left: 500px;
+}
+
+#shuffleButton{
+    position: absolute;
+}
